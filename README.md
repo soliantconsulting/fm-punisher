@@ -1,7 +1,7 @@
 ![A screenshot of a cell phone Description automatically
 generated](media/image1.png)
 
-Punisher
+
 
 [Preliminary Note](#preliminary-note)
 
@@ -87,6 +87,9 @@ generated](media/image2.png)
 
 Download the three files, host them on your FileMaker Server and you are
 all set.
+
+Credentials for the main file: ets / ets
+
 
 How do I use this?
 ==================
