@@ -70,11 +70,13 @@ engine process, some are more taxing on the database server process.
 What do I need?
 ===============
 
-Punisher consists of three files:
+Punisher consists of four files:
 
 -   Punisher_YYYYMMDD: this is the main file with the scripts and the
     test results. The date stamp in the file name is the version. This
     file is likely to change often.
+    
+-   Punisher_test_data: this one contains a small test table and all the preferences
 
 -   Punisher_small and Punisher_smaller are utility data files to give
     the scripts something to work with. These files are not going to
@@ -83,9 +85,9 @@ Punisher consists of three files:
     files: https://www.dropbox.com/s/0ckqo1u2lojk7ov/Punisher_utility_files.7z?dl=0
 
 ![A screenshot of a cell phone Description automatically
-generated](media/image2.png)
+generated](media/punisher_2020-10-27_13-46-47.png)
 
-Download the three files, host them on your FileMaker Server and you are
+Download the four files, host them on your FileMaker Server and you are
 all set.
 
 Credentials for the main file: ets / ets
