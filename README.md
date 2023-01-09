@@ -90,6 +90,8 @@ generated](media/punisher_2020-10-27_13-46-47.png)
 Download the four files, host them on your FileMaker Server and you are
 all set.
 
+Make sure to also read the notes on the "Releases" (on the right of the GitHub UI)
+
 Credentials for the main file: ets / ets
 
 
